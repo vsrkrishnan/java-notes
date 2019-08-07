@@ -4,7 +4,8 @@
 https://www.baeldung.com/java-generics  
 https://www.journaldev.com/1663/java-generics-example-method-class-interface  
 https://stackoverflow.com/questions/22860582/java-generics-wildcard-vs-type-parametere  
-https://www.baeldung.com/java-generalized-target-type-inference
+https://www.baeldung.com/java-generalized-target-type-inference  
+http://tutorials.jenkov.com/java-generics/generic-map.html
 
 ## Autoboxing and Unboxing
 https://www.journaldev.com/1005/autoboxing-java  
