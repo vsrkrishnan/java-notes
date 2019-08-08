@@ -11,5 +11,8 @@ http://tutorials.jenkov.com/java-generics/generic-map.html
 https://www.journaldev.com/1005/autoboxing-java  
 https://stackoverflow.com/questions/501412/why-does-autoboxing-make-some-calls-ambiguous-in-java
 
+## Non-Access Modifiers
+https://stackabuse.com/non-access-modifiers-in-java/
+
 ## Row-store vs Column-store databases
 https://dzone.com/articles/row-store-and-column-store-databases
