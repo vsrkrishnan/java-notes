@@ -17,3 +17,6 @@ https://stackabuse.com/non-access-modifiers-in-java/
 
 ## Row-store vs Column-store databases
 https://dzone.com/articles/row-store-and-column-store-databases
+
+## Data Structures
+https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/
