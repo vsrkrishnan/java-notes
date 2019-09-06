@@ -37,3 +37,6 @@ http://tutorials.jenkov.com/java-concurrency/concurrency-vs-parallelism.html
 https://vimeo.com/49718712  
 https://dzone.com/articles/parallel-and-asynchronous-programming-in-java-8  
 https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture/
+
+## POJO
+https://stackoverflow.com/a/12518297
