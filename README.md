@@ -40,3 +40,6 @@ https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablef
 
 ## POJO
 https://stackoverflow.com/a/12518297
+
+## JVM Explained
+https://dzone.com/articles/jvm-architecture-explained
