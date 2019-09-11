@@ -22,7 +22,8 @@ https://dzone.com/articles/row-store-and-column-store-databases
 https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/  
 https://javahungry.blogspot.com/2014/03/hashmap-vs-hashtable-difference-with-example-java-interview-questions.html  
 https://opensourceforu.com/2015/06/data-structures-made-easy-with-java-collections/  
-https://dzone.com/articles/how-hashmap-works-in-java
+https://dzone.com/articles/how-hashmap-works-in-java  
+https://dzone.com/articles/working-with-hashcode-and-equals-in-java?fromrel=true
 
 ## Lambda Expressions
 https://dzone.com/articles/lambda-expression-in-java8
