@@ -45,7 +45,8 @@ https://www.baeldung.com/java-thread-lifecycle
 https://stackoverflow.com/a/12518297
 
 ## JVM Explained
-https://dzone.com/articles/jvm-architecture-explained
+https://dzone.com/articles/jvm-architecture-explained  
+https://codepumpkin.com/typesof-class-loader/
 
 ## Maven
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
