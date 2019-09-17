@@ -51,3 +51,6 @@ https://codepumpkin.com/typesof-class-loader/
 
 ## Maven
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+## Memory Management
+https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/
