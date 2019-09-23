@@ -48,7 +48,8 @@ https://stackoverflow.com/a/12518297
 
 ## JVM Explained
 https://dzone.com/articles/jvm-architecture-explained  
-https://codepumpkin.com/typesof-class-loader/
+https://codepumpkin.com/typesof-class-loader/  
+https://dzone.com/articles/a-detailed-breakdown-of-the-jvm
 
 ## Maven
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
