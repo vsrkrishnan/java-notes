@@ -24,7 +24,8 @@ https://javahungry.blogspot.com/2014/03/hashmap-vs-hashtable-difference-with-exa
 https://opensourceforu.com/2015/06/data-structures-made-easy-with-java-collections/  
 https://dzone.com/articles/how-hashmap-works-in-java  
 https://dzone.com/articles/working-with-hashcode-and-equals-in-java?fromrel=true  
-https://dzone.com/articles/getting-the-most-out-of-your-hashmaps?fromrel=true
+https://dzone.com/articles/getting-the-most-out-of-your-hashmaps?fromrel=true  
+https://javaconceptoftheday.com/difference-between-shallow-copy-vs-deep-copy-in-java/
 
 ## Lambda Expressions
 https://dzone.com/articles/lambda-expression-in-java8
