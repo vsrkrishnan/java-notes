@@ -59,3 +59,6 @@ https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 
 ## Memory Management
 https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/
+
+## Problems
+https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/
