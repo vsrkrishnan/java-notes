@@ -26,7 +26,8 @@ https://dzone.com/articles/how-hashmap-works-in-java
 https://dzone.com/articles/working-with-hashcode-and-equals-in-java?fromrel=true  
 https://dzone.com/articles/getting-the-most-out-of-your-hashmaps?fromrel=true  
 https://javaconceptoftheday.com/difference-between-shallow-copy-vs-deep-copy-in-java/  
-https://stackoverflow.com/questions/52399770/what-is-an-heterogeneous-object-in-java
+https://stackoverflow.com/questions/52399770/what-is-an-heterogeneous-object-in-java  
+https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/
 
 ## Lambda Expressions
 https://dzone.com/articles/lambda-expression-in-java8
