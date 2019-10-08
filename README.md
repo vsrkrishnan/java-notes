@@ -30,7 +30,8 @@ https://stackoverflow.com/questions/52399770/what-is-an-heterogeneous-object-in-
 https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/
 
 ## Lambda Expressions
-https://dzone.com/articles/lambda-expression-in-java8
+https://dzone.com/articles/lambda-expression-in-java8  
+https://dzone.com/articles/lambda-expressions-in-java-8
 
 ## Is Java Pass-by-Value or Pass-by-Reference?? 
 https://www.journaldev.com/3884/java-is-pass-by-value-and-not-pass-by-reference  
