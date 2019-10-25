@@ -27,6 +27,7 @@ https://dzone.com/articles/working-with-hashcode-and-equals-in-java?fromrel=true
 https://dzone.com/articles/getting-the-most-out-of-your-hashmaps?fromrel=true  
 https://javaconceptoftheday.com/difference-between-shallow-copy-vs-deep-copy-in-java/  
 https://www.javaworld.com/article/2077578/java-tip-76--an-alternative-to-the-deep-copy-technique.html  
+https://www.baeldung.com/apache-commons-beanutils  
 https://stackoverflow.com/questions/52399770/what-is-an-heterogeneous-object-in-java  
 https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/
 
