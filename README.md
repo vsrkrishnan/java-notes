@@ -29,7 +29,8 @@ https://javaconceptoftheday.com/difference-between-shallow-copy-vs-deep-copy-in-
 https://www.javaworld.com/article/2077578/java-tip-76--an-alternative-to-the-deep-copy-technique.html  
 https://www.baeldung.com/apache-commons-beanutils  
 https://stackoverflow.com/questions/52399770/what-is-an-heterogeneous-object-in-java  
-https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/
+https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/  
+https://stackoverflow.com/questions/5468664/how-do-i-set-an-empty-list-of-a-certain-type
 
 ## Lambda Expressions
 https://dzone.com/articles/lambda-expression-in-java8  
