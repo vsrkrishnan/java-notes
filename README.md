@@ -48,7 +48,8 @@ https://dzone.com/articles/parallel-and-asynchronous-programming-in-java-8
 https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture/  
 https://www.decodejava.com/life-cycle-of-thread.htm  
 https://www.baeldung.com/java-thread-lifecycle  
-https://dzone.com/articles/java-concurrency-synchronization?edition=521333
+https://dzone.com/articles/java-concurrency-synchronization?edition=521333  
+https://dzone.com/articles/spring-boot-creating-asynchronous-methods-using-as
 
 ## POJO
 https://stackoverflow.com/a/12518297
