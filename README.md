@@ -65,7 +65,10 @@ https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 ## Memory Management
 https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/  
 https://dzone.com/articles/java-memory-architecture-model-garbage-collection  
-https://dzone.com/articles/evolution-of-the-java-memory-architecture-java-17
+https://dzone.com/articles/evolution-of-the-java-memory-architecture-java-17  
+
+## Autowiring
+https://dzone.com/articles/autowiring-in-spring
 
 ## Problems
 https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/
