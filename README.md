@@ -68,7 +68,8 @@ https://dzone.com/articles/java-memory-architecture-model-garbage-collection
 https://dzone.com/articles/evolution-of-the-java-memory-architecture-java-17  
 
 ## Autowiring
-https://dzone.com/articles/autowiring-in-spring
+https://dzone.com/articles/autowiring-in-spring  
+https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/
 
 ## Problems
 https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/
