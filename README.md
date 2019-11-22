@@ -71,5 +71,8 @@ https://dzone.com/articles/evolution-of-the-java-memory-architecture-java-17
 https://dzone.com/articles/autowiring-in-spring  
 https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/
 
+## Beans
+https://brudenko.com/spring-bean-override
+
 ## Problems
 https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/
