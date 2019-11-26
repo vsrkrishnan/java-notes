@@ -74,5 +74,8 @@ https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/
 ## Beans
 https://brudenko.com/spring-bean-override
 
+## Miscellaneous
+https://stackoverflow.com/questions/18176534/what-does-string-mean
+
 ## Problems
 https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/
