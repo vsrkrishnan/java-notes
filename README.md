@@ -78,4 +78,5 @@ https://brudenko.com/spring-bean-override
 https://stackoverflow.com/questions/18176534/what-does-string-mean
 
 ## Problems
-https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/
+https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/  
+https://javaconceptoftheday.com/java-8-merge-two-maps-with-same-keys/
