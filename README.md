@@ -73,7 +73,8 @@ https://dzone.com/articles/autowiring-in-spring
 https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/
 
 ## Beans
-https://brudenko.com/spring-bean-override
+https://brudenko.com/spring-bean-override  
+https://stackoverflow.com/a/52327577
 
 ## Miscellaneous
 https://stackoverflow.com/questions/18176534/what-does-string-mean
