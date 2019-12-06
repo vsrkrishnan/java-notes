@@ -52,7 +52,8 @@ https://dzone.com/articles/java-concurrency-synchronization?edition=521333
 https://dzone.com/articles/spring-boot-creating-asynchronous-methods-using-as
 
 ## POJO
-https://stackoverflow.com/a/12518297
+https://stackoverflow.com/a/12518297  
+https://stackoverflow.com/a/3295517
 
 ## JVM Explained
 https://dzone.com/articles/jvm-architecture-explained  
