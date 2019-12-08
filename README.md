@@ -77,7 +77,8 @@ https://brudenko.com/spring-bean-override
 https://stackoverflow.com/a/52327577
 
 ## Miscellaneous
-https://stackoverflow.com/questions/18176534/what-does-string-mean
+https://stackoverflow.com/questions/18176534/what-does-string-mean  
+https://installvirtual.com/install-openjdk-8-on-mac-using-brew-adoptopenjdk/
 
 ## Problems
 https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/  
