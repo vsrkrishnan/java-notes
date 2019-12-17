@@ -81,7 +81,8 @@ https://stackoverflow.com/questions/18176534/what-does-string-mean
 https://installvirtual.com/install-openjdk-8-on-mac-using-brew-adoptopenjdk/  
 https://www.journaldev.com/29007/type-casting-in-java  
 https://stackoverflow.com/questions/9379426/java-when-is-a-static-initialization-block-useful  
-https://www.journaldev.com/21816/mockito-tutorial
+https://www.journaldev.com/21816/mockito-tutorial  
+https://www.journaldev.com/1582/abstract-class-in-java
 
 ## Problems
 https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/  
