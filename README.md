@@ -84,7 +84,8 @@ https://stackoverflow.com/questions/9379426/java-when-is-a-static-initialization
 https://www.journaldev.com/21816/mockito-tutorial  
 https://www.journaldev.com/1582/abstract-class-in-java  
 https://www.journaldev.com/9107/the-method-is-ambiguous-for-the-type-java-ambiguous-method-call-null-error  
-https://www.youtube.com/watch?v=xlSRf7psJHE
+https://www.youtube.com/watch?v=xlSRf7psJHE  
+https://www.javatpoint.com/string-comparison-in-java
 
 ## Problems
 https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/  
