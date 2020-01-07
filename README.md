@@ -88,6 +88,9 @@ https://www.youtube.com/watch?v=xlSRf7psJHE
 https://www.javatpoint.com/string-comparison-in-java  
 https://stackoverflow.com/questions/1923795/java-method-invocation-vs-using-a-variable
 
+## Programming Jargons
+https://medium.com/background-thread/what-is-lazy-evaluation-programming-word-of-the-day-8a6f4410053f  
+
 ## Problems
 https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/  
 https://javaconceptoftheday.com/java-8-merge-two-maps-with-same-keys/
