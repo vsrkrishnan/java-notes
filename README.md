@@ -91,6 +91,9 @@ https://stackoverflow.com/questions/1923795/java-method-invocation-vs-using-a-va
 ## Programming Jargons
 https://medium.com/background-thread/what-is-lazy-evaluation-programming-word-of-the-day-8a6f4410053f  
 
+## Set Thoery
+https://www.baeldung.com/java-lists-intersection  
+
 ## Problems
 https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/  
 https://javaconceptoftheday.com/java-8-merge-two-maps-with-same-keys/
