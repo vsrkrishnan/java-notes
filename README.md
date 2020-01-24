@@ -30,7 +30,8 @@ https://www.javaworld.com/article/2077578/java-tip-76--an-alternative-to-the-dee
 https://www.baeldung.com/apache-commons-beanutils  
 https://stackoverflow.com/questions/52399770/what-is-an-heterogeneous-object-in-java  
 https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/  
-https://stackoverflow.com/questions/5468664/how-do-i-set-an-empty-list-of-a-certain-type
+https://stackoverflow.com/questions/5468664/how-do-i-set-an-empty-list-of-a-certain-type  
+https://www.journaldev.com/129/how-to-create-immutable-class-in-java
 
 ## Lambda Expressions
 https://dzone.com/articles/lambda-expression-in-java8  
