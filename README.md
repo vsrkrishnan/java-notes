@@ -88,7 +88,8 @@ https://www.journaldev.com/1582/abstract-class-in-java
 https://www.journaldev.com/9107/the-method-is-ambiguous-for-the-type-java-ambiguous-method-call-null-error  
 https://www.youtube.com/watch?v=xlSRf7psJHE  
 https://www.javatpoint.com/string-comparison-in-java  
-https://stackoverflow.com/questions/1923795/java-method-invocation-vs-using-a-variable
+https://stackoverflow.com/questions/1923795/java-method-invocation-vs-using-a-variable  
+https://stackoverflow.com/questions/16699593/uninitialized-object-vs-object-initialized-to-null
 
 ## Programming Jargons
 https://medium.com/background-thread/what-is-lazy-evaluation-programming-word-of-the-day-8a6f4410053f  
