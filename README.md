@@ -15,8 +15,9 @@ https://stackoverflow.com/questions/501412/why-does-autoboxing-make-some-calls-a
 ## Non-Access Modifiers
 https://stackabuse.com/non-access-modifiers-in-java/
 
-## Row-store vs Column-store databases
-https://dzone.com/articles/row-store-and-column-store-databases
+## DB specifics
+https://dzone.com/articles/row-store-and-column-store-databases  
+https://mkyong.com/java/due-to-limitations-of-the-basicdbobject-you-cant-add-a-second-and/
 
 ## Data Structures
 https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/  
