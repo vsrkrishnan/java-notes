@@ -33,7 +33,8 @@ https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/
 https://stackoverflow.com/questions/5468664/how-do-i-set-an-empty-list-of-a-certain-type  
 https://www.journaldev.com/129/how-to-create-immutable-class-in-java  
 https://www.journaldev.com/802/string-immutable-final-java  
-https://dzone.com/articles/preventing-your-java-collections-from-wasting-memo
+https://dzone.com/articles/preventing-your-java-collections-from-wasting-memo  
+https://dzone.com/articles/the-way-of-the-lambda-and-removeif
 
 ## Lambda Expressions
 https://dzone.com/articles/lambda-expression-in-java8  
