@@ -40,7 +40,8 @@ https://dzone.com/articles/the-way-of-the-lambda-and-removeif
 ## Lambda Expressions
 https://dzone.com/articles/lambda-expression-in-java8  
 https://dzone.com/articles/lambda-expressions-in-java-8  
-https://www.leveluplunch.com/java/examples/filter-collection-by-class-type/
+https://www.leveluplunch.com/java/examples/filter-collection-by-class-type/  
+https://www.baeldung.com/java-anonymous-classes
 
 ## Is Java Pass-by-Value or Pass-by-Reference?? 
 https://www.journaldev.com/3884/java-is-pass-by-value-and-not-pass-by-reference  
