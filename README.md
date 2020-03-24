@@ -96,7 +96,8 @@ https://www.javatpoint.com/string-comparison-in-java
 https://stackoverflow.com/questions/1923795/java-method-invocation-vs-using-a-variable  
 https://stackoverflow.com/questions/16699593/uninitialized-object-vs-object-initialized-to-null  
 https://dzone.com/articles/writing-a-library-for-2am  
-https://restfulapi.net/
+https://restfulapi.net/  
+https://www.oracle.com/technical-resources/articles/java/java8-optional.html
 
 ## Programming Jargons
 https://medium.com/background-thread/what-is-lazy-evaluation-programming-word-of-the-day-8a6f4410053f  
