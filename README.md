@@ -102,6 +102,9 @@ https://www.oracle.com/technical-resources/articles/java/java8-optional.html
 ## Programming Jargons
 https://medium.com/background-thread/what-is-lazy-evaluation-programming-word-of-the-day-8a6f4410053f  
 
+## Design Patterns
+https://www.javaguides.net/2018/08/context-object-design-pattern-in-java.html
+
 ## Set Thoery
 https://www.baeldung.com/java-lists-intersection  
 https://stackoverflow.com/a/15575578
