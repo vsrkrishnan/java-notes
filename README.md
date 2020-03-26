@@ -103,7 +103,7 @@ https://www.oracle.com/technical-resources/articles/java/java8-optional.html
 https://medium.com/background-thread/what-is-lazy-evaluation-programming-word-of-the-day-8a6f4410053f  
 
 ## Design Patterns
-https://www.javaguides.net/2018/08/context-object-design-pattern-in-java.html  
+Context Object Design Pattern: https://www.javaguides.net/2018/08/context-object-design-pattern-in-java.html  
 Producer-Consumer Pattern: https://www.youtube.com/watch?v=UOr9kMCCa5g
 
 ## Set Thoery
