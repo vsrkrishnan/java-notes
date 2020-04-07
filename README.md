@@ -58,7 +58,8 @@ https://www.decodejava.com/life-cycle-of-thread.htm
 https://www.baeldung.com/java-thread-lifecycle  
 https://dzone.com/articles/java-concurrency-synchronization?edition=521333  
 https://dzone.com/articles/spring-boot-creating-asynchronous-methods-using-as  
-https://dzone.com/articles/which-thread-executes-completablefutures-tasks-and
+https://dzone.com/articles/which-thread-executes-completablefutures-tasks-and  
+https://www.youtube.com/watch?v=WH5UvQJizH0
 
 ## POJO
 https://stackoverflow.com/a/12518297  
