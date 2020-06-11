@@ -35,7 +35,8 @@ https://stackoverflow.com/questions/5468664/how-do-i-set-an-empty-list-of-a-cert
 https://www.journaldev.com/129/how-to-create-immutable-class-in-java  
 https://www.journaldev.com/802/string-immutable-final-java  
 https://dzone.com/articles/preventing-your-java-collections-from-wasting-memo  
-https://dzone.com/articles/the-way-of-the-lambda-and-removeif
+https://dzone.com/articles/the-way-of-the-lambda-and-removeif  
+https://www.baeldung.com/java-hashmap
 
 ## Lambda Expressions
 https://dzone.com/articles/lambda-expression-in-java8  
