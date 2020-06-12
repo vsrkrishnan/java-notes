@@ -110,6 +110,7 @@ https://blog.frankel.ch/introductory-guide-annotation-processor/?utm_content=127
 
 ## Programming Jargons
 https://medium.com/background-thread/what-is-lazy-evaluation-programming-word-of-the-day-8a6f4410053f  
+https://dzone.com/articles/functional-java-traversing-a-list-in-a-functional
 
 ## Design Patterns
 Context Object Design Pattern: https://www.javaguides.net/2018/08/context-object-design-pattern-in-java.html  
