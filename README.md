@@ -37,7 +37,8 @@ https://www.journaldev.com/802/string-immutable-final-java
 https://dzone.com/articles/preventing-your-java-collections-from-wasting-memo  
 https://dzone.com/articles/the-way-of-the-lambda-and-removeif  
 https://www.baeldung.com/java-hashmap  
-https://openjdk.java.net/jeps/180
+https://openjdk.java.net/jeps/180  
+https://gribblelab.org/CBootCamp/7_Memory_Stack_vs_Heap.html
 
 ## Lambda Expressions
 https://dzone.com/articles/lambda-expression-in-java8  
