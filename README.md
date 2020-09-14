@@ -122,6 +122,9 @@ Producer-Consumer Pattern: https://www.youtube.com/watch?v=UOr9kMCCa5g
 https://www.baeldung.com/java-lists-intersection  
 https://stackoverflow.com/a/15575578
 
+## Cryptography
+https://www.baeldung.com/java-password-hashing
+
 ## Problems
 https://javaconceptoftheday.com/sort-array-elements-by-frequency-in-java/  
 https://javaconceptoftheday.com/java-8-merge-two-maps-with-same-keys/
