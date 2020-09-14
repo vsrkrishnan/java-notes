@@ -108,7 +108,8 @@ https://dzone.com/articles/writing-a-library-for-2am
 https://restfulapi.net/  
 https://www.oracle.com/technical-resources/articles/java/java8-optional.html  
 https://dzone.com/articles/debugging-java-streams-with-intellij  
-https://blog.frankel.ch/introductory-guide-annotation-processor/?utm_content=127904518&utm_medium=social&utm_source=twitter&hss_channel=tw-2599580401
+https://blog.frankel.ch/introductory-guide-annotation-processor/?utm_content=127904518&utm_medium=social&utm_source=twitter&hss_channel=tw-2599580401  
+https://www.baeldung.com/java-random-string
 
 ## Programming Jargons
 https://medium.com/background-thread/what-is-lazy-evaluation-programming-word-of-the-day-8a6f4410053f  
